@@ -1,5 +1,5 @@
 <h1 align="left">Hi there! 👋</h1>
-<h4 align="left">I am an AI geek with a PhD in Deep Learning wizardry, backed by extensive hands-on experience in machine learning research and operations. My research expertise primarily lies in theoretical machine learning, multimodal learning and natural language processing.</h4>
+<h4 align="left">I am an AI geek with a PhD in Machine Learning, backed by extensive hands-on experience in machine learning research and operations. My research expertise primarily lies in theoretical machine learning, multimodal learning and natural language processing.</h4>
 
 - 👨‍💻 All of my projects are available at [Amila's Projects](https://sites.google.com/d/1k21Sg5CDh1ELE26-dSmxlVc3PGOFDiXo/p/1RONfOqo4jvf2LzCLRBhhUIkKH1CjmLU_/edit?pli=1)
 
